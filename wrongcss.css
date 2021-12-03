@@ -1,0 +1,33 @@
+#main{
+    width: 650px;
+    height: 450px;
+    padding-left: 32px;
+
+}
+
+#thesis{
+    padding-left: 100px;
+    padding-top: 32px;
+    width: 280px;
+    height: 150px;
+
+}
+
+.aa{
+    margin-left: 32px;
+    padding: 10px 10px 10px 10px;
+    height: 50%;
+    width: 50%;
+}
+
+.a1{
+    height: 70%;
+    width: 100%;
+
+}
+
+.a2{
+    width:70%;
+    
+    
+}
